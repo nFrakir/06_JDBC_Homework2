@@ -1,0 +1,27 @@
+label.personal {
+	font-weight: bold;
+}
+legend {
+    font-weight: bold;
+    color: navy;
+}
+form {
+    max-width: 200px;
+}
+th.outer {
+    min-width: 400px;
+}
+th.inner {
+    min-width: 200px;
+}
+tr.bottom td {
+    padding: 3px;
+    border:1px solid black;
+}
+table.inner {
+    border-collapse: collapse;
+}
+.btn {
+    min-width: 100px;
+    float: right;
+}
